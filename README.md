@@ -3,6 +3,7 @@ This project analyzes a dataset containing information about 10,000 movies colle
 
 ### Conclusions
 
+
 Genre Popularity: Drama is the most popular genre over the years, followed by comedy, thriller, and action, indicating audience preferences.
 
 Factors Influencing Revenue: High budget, vote count, and popularity lead to higher revenue and increased profit, highlighting the importance of investment and marketing efforts.
@@ -16,6 +17,7 @@ Runtime Reduction: The average runtime of movies has significantly reduced over 
 Consistent Profitability: Despite a reduction in vote average, the movie industry has been making consistent profits over the years, suggesting other factors play a vital role in revenue generation.
 
 ### Limitations
+
 
 Reduced Dataset: Due to null, invalid, and duplicate values, the analysis was based on only 3,850 observations out of the original 10,866, which might affect the representativeness of conclusions.
 
